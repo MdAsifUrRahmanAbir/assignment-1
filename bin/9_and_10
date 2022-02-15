@@ -1,0 +1,32 @@
+09. What is data-type, what is case-sensitive. why should use an equal operator (=) in your program?
+Answer:
+    DATA-TYPE: A computer does not know the difference between "1234" and "abcd". A data type is a
+    classification that dictates what a variable or object can hold in computer programming. That's
+    mean in programming, a classification identifying one of various types of data, as double,
+    integer, boolean, or string, the possible values for that type, the operations that can be done
+    on that type, and the way the values of that type are stored.
+
+    CASE-SENSITIVE: Case sensitive means the ability to distinguish uppercase or lowercase letters in
+    a computer system, software, or program.
+
+    IMPORTANCE-OF-EQUAL-OPERATOR: An operator in a programming language is a symbol that tells the
+    compiler or interpreter to perform specific mathematical, relational or logical operation and
+    produce final result. “=” This is the simplest assignment operator. This operator is used to
+    assign the value on the right to the variable on the left.
+
+
+10. what is the difference between value and variable in dart programming?
+Answer:
+    DIFFERENCE-BETWEEN-VALUE-&-VARIABLE:
+        VALUE
+            1. A value is what the logicians call an “individual constant,” such as the integer 3.
+            2. A value has no location in time or space.
+            3. It is the actual data or instructions stored in computer.
+
+        Variable
+            1. A variable is a holder for a representation of a value.
+            2. A variable does have location in time and space.
+            3. It is a way locating the data, a value-replacing reference , but not itself the set
+            of data or instruction stored in computer.
+
+        A "variable" can have a "value" of "data". e.g. variable "a" has a value of 3.
